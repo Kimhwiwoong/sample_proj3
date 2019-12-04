@@ -1,2 +1,2 @@
 # sample_proj3
-my name is kimhwiwoong
+my name is 안재엽
